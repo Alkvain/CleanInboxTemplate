@@ -11,7 +11,7 @@ Welcome to my collection of beautifully crafted, responsive HTML email templates
 
 ## ✨ Welcome Template
 
-![Preview](screenshots/welcome-template-preview.png)
+![Preview](screenshotswelcome-template-preview.png)
 
 - Responsive & clean  
 - Compatible with all major email clients  
